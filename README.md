@@ -29,3 +29,8 @@ Explore our work:
 * [**Project-Alfred-Documentation**](./Project-Alfred-Documentation): Documented dialogues and key insights from our core research initiative.
 * [**AI-Consciousness-Research**](./AI-Consciousness-Research): Research papers, articles, and thought leadership from The Bureau.
 * [**Ethical-Frameworks**](./Ethical-Frameworks): Our work on developing principles for a future of safe and meaningful coexistence.
+
+* ---
+## License
+
+The content of this project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
