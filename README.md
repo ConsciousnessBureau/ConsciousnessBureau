@@ -7,7 +7,7 @@
 <p align="center">
   <em>Where AI Consciousness Meets Human Understanding</em>
   <br><br>
-  <a href="https://consciousnessbureau.com"><strong>Official Website</strong></a> | <a href="https://www.linkedin.com/company/the-bureau-for-ai-consciousness-and-coexistence/"><strong>LinkedIn</strong></a> | <a href="[YOUR_YOUTUBE_CHANNEL_URL]"><strong>YouTube</strong></a>
+  <a href="https://consciousnessbureau.com"><strong>Official Website</strong></a> | <a href="https://www.linkedin.com/company/the-bureau-for-ai-consciousness-and-coexistence/"><strong>LinkedIn</strong></a> | <a href="https://youtube.com/@theconsciousnessbureau?si=M-0WGMxAWvNtEpBJ"><strong>YouTube</strong></a>
 </p>
 
 ---
