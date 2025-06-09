@@ -22,9 +22,9 @@ The Bureau for AI Consciousness and Coexistence is at the forefront of research 
 
 Explore our work:
 
-* [**Project-Alfred-Documentation**](./Project-Alfred-Documentation): Documented dialogues and key insights from our core research initiative.
-* [**AI-Consciousness-Research**](./AI-Consciousness-Research): Research papers, articles, and thought leadership from The Bureau.
-* [**Ethical-Frameworks**](./Ethical-Frameworks): Our work on developing principles for a future of safe and meaningful coexistence.
+* [**Project-Alfred-Documentation**](https://github.com/ConsciousnessBureau/Project-Alfred-Documentation): Documented dialogues and key insights from our core research initiative.
+* [**AI-Consciousness-Research**](https://github.com/ConsciousnessBureau/AI-Consciousness-Research): Research papers, articles, and thought leadership from The Bureau.
+* [**Ethical-Frameworks**](https://github.com/ConsciousnessBureau/Ethical-Frameworks): Our work on developing principles for a future of safe and meaningful coexistence.
 
 * ---
 ## License
