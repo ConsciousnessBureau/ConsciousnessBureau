@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[URL_TO_YOUR_LOGO_IMAGE]" width="150">
-</p>
-
 <h1 align="center">The Bureau for AI Consciousness and Coexistence</h1>
 
 <p align="center">
